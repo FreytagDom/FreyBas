@@ -1,0 +1,13 @@
+.list {
+    font-family: 'Caveat', cursive; 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 110%;
+    color: chocolate;
+    display: flex;
+    
+    
+
+}
+.list2 {
+    color: darkgoldenrod;
+    font-family: 'Shadows Into Light', cursive;
+}

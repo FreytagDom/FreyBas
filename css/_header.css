@@ -1,0 +1,16 @@
+h1 {
+    color: rgba(144, 165, 171, 0.758);
+    font-family: 'Shadoes Into Light', cursive;
+    position: absolute;
+}
+h1 {
+    color: rgba(242, 248, 250, 0.758);
+    font-family: 'Shadoes Into Light', cursive;
+    position: absolute;
+}
+.leder {
+    display: flex;
+flex-direction: column;
+position: static;
+
+}
