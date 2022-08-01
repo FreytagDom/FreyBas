@@ -4,6 +4,16 @@
 h1 {
     color: burlywood;
     font-family: cursive;
-    font-size: 50px;
+    
 }
+.leder {
+    display: flex;
+flex-direction: column;
 
+}
+.list {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+    display: flex;
+    
+}
