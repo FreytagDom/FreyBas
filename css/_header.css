@@ -3,12 +3,13 @@ h1 {
     font-family: 'Shadoes Into Light', cursive;
     position: absolute;
     font-size: 350%;
-    padding-left: 50%;
+    padding-inline: 50%;
 }
 
 .leder {
     display: flex;
 flex-direction: column;
 position: static;
-
+padding-left: 0px;
+padding-right: 0px;
 }
